@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bittrex Profits</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">Detail Activity</string>
+</resources>
